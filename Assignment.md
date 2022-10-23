@@ -89,6 +89,6 @@ MobX and Provider both manage **the state of an application.**
 But Mobx allows reactive programming and a provider used for Dependency Injection.
 MobX and Provider if we will use together the Provider is _used only for dependency injection with mobx_. It is not used for state changes.
 
-[Implementation Code](https://github.com/himadridebnath1993/Mobx-Provider/lib/main.dart)
+[Implementation Code](https://github.com/himadridebnath1993/Mobx-Provider/blob/main/lib/main.dart)
 
 
